@@ -9,7 +9,7 @@ data.m_inf = InputData(2:field(1,1), 5);
 sz = size(data);
 max = sz(1,1);
 N = 1024;
-b = 27500;
+b = 29500;
 row = 1.165;
 speed = 7.6;
 
