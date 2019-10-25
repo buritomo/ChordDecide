@@ -7,3 +7,5 @@
     Please make files "data.csv", and "LiftElpl.txt".
     "data.csv" is needed to foil distribution, and chords(you don't have to make it perfect). Please follow samle files. 
     "LiftElpl.txt" is needed to lift distribution. Please make this file by using other programs(for examle TR797).
+
+     Warning!: The owner of this repository NEVER take any sponsibility for any trouble because of this programs.
